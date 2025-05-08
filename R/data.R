@@ -86,7 +86,7 @@
 #' @format ## `data_adj_gradation`
 #' A data frame with 817 rows and 9 columns:
 #' \describe{
-#'   \item{adjective]{the adjectival base}
+#'   \item{adjective}{the adjectival base}
 #'   \item{form}{"a" analytic (more/most), "s" synthetic (-er/-est)}
 #'   \item{category}{"C" comparative, "S" superlative}
 #'   \item{text}{text identifier}

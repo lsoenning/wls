@@ -18,7 +18,5 @@ d$attributive <- ifelse(d$position == "attributive", 1, 0)
 
 data_adj_gradation <- d
 
-data_adj_gradation <- data_comparatives
-
 use_data(data_adj_gradation, overwrite = TRUE)
 
