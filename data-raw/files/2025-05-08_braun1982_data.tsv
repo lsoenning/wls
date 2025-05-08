@@ -1,0 +1,818 @@
+adjective	form	category	text	genre	publication_date	corpus	pattern	position	than_compl	definite	verb_pattern	coordinated	page	text_details
+easy	s	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	257	A. Sillitoe, A start in life
+clumsy	a	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	46	A. Sillitoe, A start in life
+shaky	s	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	325	A. Sillitoe, A start in life
+pure	a	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	243	A. Sillitoe, A start in life
+easy	s	C	asil	fiction	1970	A	c3	postnominal	1	0	1	0	84	A. Sillitoe, A start in life
+shifty	s	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	233	A. Sillitoe, A start in life
+wary	a	C	asil	fiction	1970	A	i1	NA	NA	NA	NA	NA	259	A. Sillitoe, A start in life
+sorry	a	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	287	A. Sillitoe, A start in life
+easy	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	95	A. Sillitoe, A start in life
+tricky	s	S	asil	fiction	1970	A	m	attributive	NA	NA	NA	1	311	A. Sillitoe, A start in life
+friendly	a	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	83	A. Sillitoe, A start in life
+happy	s	C	asil	fiction	1970	A	a2	attributive	0	0	0	0	295	A. Sillitoe, A start in life
+heavy	s	C	asil	fiction	1970	A	a2	attributive	0	0	0	0	78	A. Sillitoe, A start in life
+rotten	s	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	336	A. Sillitoe, A start in life
+hungry	s	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	179	A. Sillitoe, A start in life
+dirty	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	120	A. Sillitoe, A start in life
+happy	s	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	296	A. Sillitoe, A start in life
+happy	s	C	asil	fiction	1970	A	i1	NA	NA	NA	NA	NA	141	A. Sillitoe, A start in life
+cosy	s	C	asil	fiction	1970	A	a2	attributive	0	0	0	0	18	A. Sillitoe, A start in life
+happy	s	C	asil	fiction	1970	A	a2	attributive	0	0	0	0	346	A. Sillitoe, A start in life
+noble	a	C	asil	fiction	1970	A	i1	NA	NA	NA	NA	NA	135	A. Sillitoe, A start in life
+easy	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	112	A. Sillitoe, A start in life
+sincere	a	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	101	A. Sillitoe, A start in life
+remote	a	C	asil	fiction	1970	A	f1	postnominal	1	0	0	1	298	A. Sillitoe, A start in life
+easy	s	C	asil	fiction	1970	A	c4	postnominal	0	0	1	0	285	A. Sillitoe, A start in life
+able	a	C	asil	fiction	1970	A	h2	predicative	0	NA	NA	NA	255	A. Sillitoe, A start in life
+quiet	a	C	asil	fiction	1970	A	f1	postnominal	1	0	0	1	298	A. Sillitoe, A start in life
+funny	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	338	A. Sillitoe, A start in life
+hungry	s	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	214	A. Sillitoe, A start in life
+homely	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	29	A. Sillitoe, A start in life
+snappy	a	S	asil	fiction	1970	A	n	predicative	NA	NA	NA	0	186	A. Sillitoe, A start in life
+simple	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	42	A. Sillitoe, A start in life
+greedy	s	C	asil	fiction	1970	A	c1	postnominal	1	0	0	0	47	A. Sillitoe, A start in life
+homely	a	C	asil	fiction	1970	A	f1	postnominal	1	0	0	1	236	A. Sillitoe, A start in life
+easy	a	C	asil	fiction	1970	A	e2	predicative	0	0	0	1	110	A. Sillitoe, A start in life
+able	a	C	asil	fiction	1970	A	h2	predicative	0	NA	NA	NA	255	A. Sillitoe, A start in life
+intense	a	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	253	A. Sillitoe, A start in life
+stupid	s	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	174	A. Sillitoe, A start in life
+heavy	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	126	A. Sillitoe, A start in life
+jumpy	a	C	asil	fiction	1970	A	d2	attributive	0	0	0	1	323	A. Sillitoe, A start in life
+easy	s	C	asil	fiction	1970	A	c4	postnominal	0	0	1	0	28	A. Sillitoe, A start in life
+healthy	s	C	asil	fiction	1970	A	b1	predicative	1	0	0	0	373	A. Sillitoe, A start in life
+subtle	a	C	asil	fiction	1970	A	e2	predicative	0	0	0	1	46	A. Sillitoe, A start in life
+easy	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	256	A. Sillitoe, A start in life
+easy	s	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	50	A. Sillitoe, A start in life
+healthy	s	C	asil	fiction	1970	A	b2	predicative	0	0	0	0	79	A. Sillitoe, A start in life
+tender	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	200	A. Sillitoe, A start in life
+lovely	s	S	asil	fiction	1970	A	l	attributive	NA	NA	NA	0	286	A. Sillitoe, A start in life
+early	s	C	aw	drama	1962	A	a1	attributive	1	0	0	0	24	A. Wesker, Chips with everything
+lousy	s	S	aw	drama	1962	A	l	attributive	NA	NA	NA	0	31	A. Wesker, Chips with everything
+subtle	a	C	aw	drama	1962	A	b2	predicative	0	0	0	0	60	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	b2	predicative	0	0	0	0	45	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	b2	predicative	0	0	0	0	45	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	c4	postnominal	0	0	1	0	24	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	c4	postnominal	0	0	1	0	57	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	c4	postnominal	0	0	1	0	46	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	b2	predicative	0	0	0	0	45	A. Wesker, Chips with everything
+easy	s	C	aw	drama	1962	A	c4	postnominal	0	0	1	0	46	A. Wesker, Chips with everything
+happy	s	S	aw	drama	1962	A	l	attributive	NA	NA	NA	0	24	A. Wesker, Chips with everything
+easy	s	C	awb	drama	1960	B	b2	predicative	0	0	0	0	169	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+happy	s	C	awb	drama	1960	B	b2	predicative	0	0	0	0	160	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+easy	s	S	awb	drama	1960	B	l	attributive	NA	NA	NA	0	147	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+soggy	s	S	awb	drama	1960	B	m	attributive	NA	NA	NA	1	182	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+happy	a	C	awb	drama	1960	B	e2	predicative	0	0	0	1	129	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+easy	s	C	awb	drama	1960	B	b2	predicative	0	0	0	0	69	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+easy	s	S	awb	drama	1960	B	l	attributive	NA	NA	NA	0	147	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+easy	s	S	awb	drama	1960	B	l	attributive	NA	NA	NA	0	147	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+easy	s	C	awb	drama	1960	B	b2	predicative	0	0	0	0	200	A. Wesker, Chicken sourp with barley, Roots, I'm talking about Jerusalem
+easy	s	C	bow	nonfiction	1965	A	e1	predicative	1	0	0	1	193	A. Sichel, The Penguin books of wines
+subtle	a	C	bow	nonfiction	1965	A	a3	attributive	0	1	0	0	96	A. Sichel, The Penguin books of wines
+likely	a	S	bow	nonfiction	1965	A	m	attributive	NA	NA	NA	1	106	A. Sichel, The Penguin books of wines
+fleshy	a	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	208	A. Sichel, The Penguin books of wines
+likely	a	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	21	A. Sichel, The Penguin books of wines
+heavy	s	C	bow	nonfiction	1965	A	a3	attributive	0	1	0	0	45	A. Sichel, The Penguin books of wines
+likely	a	S	bow	nonfiction	1965	A	m	attributive	NA	NA	NA	1	163	A. Sichel, The Penguin books of wines
+austere	a	C	bow	nonfiction	1965	A	a2	attributive	0	0	0	0	82	A. Sichel, The Penguin books of wines
+gentle	a	C	bow	nonfiction	1965	A	a2	attributive	0	0	0	0	112	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	33	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	c4	postnominal	0	0	1	0	210	A. Sichel, The Penguin books of wines
+heavy	s	C	bow	nonfiction	1965	A	a3	attributive	0	1	0	0	253	A. Sichel, The Penguin books of wines
+austere	a	S	bow	nonfiction	1965	A	o	predicative	NA	NA	NA	1	189	A. Sichel, The Penguin books of wines
+stumpy	s	C	bow	nonfiction	1965	A	a2	attributive	0	0	0	0	53	A. Sichel, The Penguin books of wines
+pure	s	S	bow	nonfiction	1965	A	m	attributive	NA	NA	NA	1	81	A. Sichel, The Penguin books of wines
+subtle	a	C	bow	nonfiction	1965	A	a3	attributive	0	1	0	0	111	A. Sichel, The Penguin books of wines
+subtle	a	C	bow	nonfiction	1965	A	a3	attributive	0	1	0	0	44	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	27	A. Sichel, The Penguin books of wines
+heavy	s	C	bow	nonfiction	1965	A	d3	attributive	0	1	0	1	136	A. Sichel, The Penguin books of wines
+pure	s	S	bow	nonfiction	1965	A	l	attributive	NA	NA	NA	0	198	A. Sichel, The Penguin books of wines
+gentle	a	C	bow	nonfiction	1965	A	a3	attributive	0	1	0	0	112	A. Sichel, The Penguin books of wines
+austere	a	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	177	A. Sichel, The Penguin books of wines
+noisy	s	S	bow	nonfiction	1965	A	n	predicative	NA	NA	NA	0	41	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	106	A. Sichel, The Penguin books of wines
+heavy	s	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	232	A. Sichel, The Penguin books of wines
+heavy	s	C	bow	nonfiction	1965	A	d2	attributive	0	0	0	1	151	A. Sichel, The Penguin books of wines
+intense	a	C	bow	nonfiction	1965	A	d3	attributive	0	1	0	1	45	A. Sichel, The Penguin books of wines
+costly	a	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	152	A. Sichel, The Penguin books of wines
+subtle	a	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	45	A. Sichel, The Penguin books of wines
+clumsy	a	S	bow	nonfiction	1965	A	l	attributive	NA	NA	NA	0	53	A. Sichel, The Penguin books of wines
+clumsy	s	C	bow	nonfiction	1965	A	a1	attributive	1	0	0	0	236	A. Sichel, The Penguin books of wines
+likely	a	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	33	A. Sichel, The Penguin books of wines
+common	s	C	bow	nonfiction	1965	A	c1	postnominal	1	0	0	0	222	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	33	A. Sichel, The Penguin books of wines
+subtle	a	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	98	A. Sichel, The Penguin books of wines
+easy	a	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	210	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	f4	postnominal	0	0	1	1	171	A. Sichel, The Penguin books of wines
+common	s	S	bow	nonfiction	1965	A	l	attributive	NA	NA	NA	0	35	A. Sichel, The Penguin books of wines
+common	a	C	bow	nonfiction	1965	A	b2	predicative	0	0	0	0	157	A. Sichel, The Penguin books of wines
+easy	s	C	bow	nonfiction	1965	A	b1	predicative	1	0	0	0	109	A. Sichel, The Penguin books of wines
+austere	a	S	cop	fiction	1964	A	o	predicative	NA	NA	NA	1	104	C.P. Snow, The corridors of power
+happy	s	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	334	C.P. Snow, The corridors of power
+angry	a	C	cop	fiction	1964	A	c4	postnominal	0	0	1	0	294	C.P. Snow, The corridors of power
+pure	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	111	C.P. Snow, The corridors of power
+early	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	247	C.P. Snow, The corridors of power
+handsome	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	221	C.P. Snow, The corridors of power
+flashy	a	C	cop	fiction	1964	A	c1	postnominal	1	0	0	0	117	C.P. Snow, The corridors of power
+lucky	s	C	cop	fiction	1964	A	d2	attributive	0	0	0	1	73	C.P. Snow, The corridors of power
+stable	s	C	cop	fiction	1964	A	d2	attributive	0	0	0	1	73	C.P. Snow, The corridors of power
+bitter	a	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	330	C.P. Snow, The corridors of power
+sombre	a	C	cop	fiction	1964	A	e2	predicative	0	0	0	1	161	C.P. Snow, The corridors of power
+funny	s	C	cop	fiction	1964	A	c3	postnominal	1	0	1	0	56	C.P. Snow, The corridors of power
+humble	s	C	cop	fiction	1964	A	a2	attributive	0	0	0	0	76	C.P. Snow, The corridors of power
+bitter	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	228	C.P. Snow, The corridors of power
+subtle	s	C	cop	fiction	1964	A	f1	postnominal	1	0	0	1	98	C.P. Snow, The corridors of power
+easy	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	64	C.P. Snow, The corridors of power
+early	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	128	C.P. Snow, The corridors of power
+remote	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	174	C.P. Snow, The corridors of power
+pleasant	s	C	cop	fiction	1964	A	c2	postnominal	0	0	0	0	66	C.P. Snow, The corridors of power
+severe	a	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	298	C.P. Snow, The corridors of power
+heavy	s	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	312	C.P. Snow, The corridors of power
+friendly	a	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	190	C.P. Snow, The corridors of power
+clever	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	220	C.P. Snow, The corridors of power
+easy	s	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	290	C.P. Snow, The corridors of power
+lonely	s	S	cop	fiction	1964	A	m	attributive	NA	NA	NA	1	321	C.P. Snow, The corridors of power
+common	s	C	cop	fiction	1964	A	c1	postnominal	1	0	0	0	76	C.P. Snow, The corridors of power
+able	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	106	C.P. Snow, The corridors of power
+busy	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	223	C.P. Snow, The corridors of power
+simple	s	C	cop	fiction	1964	A	c1	postnominal	1	0	0	0	239	C.P. Snow, The corridors of power
+happy	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	204	C.P. Snow, The corridors of power
+easy	s	C	cop	fiction	1964	A	c4	postnominal	0	0	1	0	271	C.P. Snow, The corridors of power
+discreet	a	S	cop	fiction	1964	A	m	attributive	NA	NA	NA	1	229	C.P. Snow, The corridors of power
+stately	a	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	193	C.P. Snow, The corridors of power
+petty	s	C	cop	fiction	1964	A	a2	attributive	0	0	0	0	47	C.P. Snow, The corridors of power
+easy	s	C	cop	fiction	1964	A	c4	postnominal	0	0	1	0	129	C.P. Snow, The corridors of power
+subtle	s	C	cop	fiction	1964	A	g1	nominalized	0	NA	0	0	272	C.P. Snow, The corridors of power
+easy	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	23	C.P. Snow, The corridors of power
+happy	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	166	C.P. Snow, The corridors of power
+gentle	s	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	163	C.P. Snow, The corridors of power
+early	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	33	C.P. Snow, The corridors of power
+stubby	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	207	C.P. Snow, The corridors of power
+prickly	a	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	299	C.P. Snow, The corridors of power
+lonely	s	C	cop	fiction	1964	A	d2	attributive	0	0	0	1	49	C.P. Snow, The corridors of power
+heavy	s	C	cop	fiction	1964	A	c2	postnominal	0	0	0	0	81	C.P. Snow, The corridors of power
+easy	s	S	cop	fiction	1964	A	l	attributive	NA	NA	NA	0	26	C.P. Snow, The corridors of power
+pretty	s	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	140	C.P. Snow, The corridors of power
+humble	s	S	cop	fiction	1964	A	m	attributive	NA	NA	NA	1	96	C.P. Snow, The corridors of power
+early	s	C	cop	fiction	1964	A	a3	attributive	0	1	0	0	234	C.P. Snow, The corridors of power
+happy	s	C	cop	fiction	1964	A	c4	postnominal	0	0	1	0	109	C.P. Snow, The corridors of power
+likely	a	C	cop	fiction	1964	A	b2	predicative	0	0	0	0	161	C.P. Snow, The corridors of power
+bitter	a	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	112	C.P. Snow, The corridors of power
+tricky	a	C	cop	fiction	1964	A	e1	predicative	1	0	0	1	40	C.P. Snow, The corridors of power
+worldly	a	C	cop	fiction	1964	A	e1	predicative	1	0	0	1	254	C.P. Snow, The corridors of power
+simple	s	C	cop	fiction	1964	A	a2	attributive	0	0	0	0	175	C.P. Snow, The corridors of power
+easy	s	C	cop	fiction	1964	A	c3	postnominal	1	0	1	0	29	C.P. Snow, The corridors of power
+angry	a	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	152	C.P. Snow, The corridors of power
+cagey	a	C	cop	fiction	1964	A	e1	predicative	1	0	0	1	40	C.P. Snow, The corridors of power
+simple	s	C	cop	fiction	1964	A	a2	attributive	0	0	0	0	188	C.P. Snow, The corridors of power
+likely	a	C	cop	fiction	1964	A	b1	predicative	1	0	0	0	161	C.P. Snow, The corridors of power
+hearty	s	S	cop	fiction	1964	A	n	predicative	NA	NA	NA	0	304	C.P. Snow, The corridors of power
+sober	a	C	cop	fiction	1964	A	e2	predicative	0	0	0	1	189	C.P. Snow, The corridors of power
+sombre	a	C	cop	fiction	1964	A	e1	predicative	1	0	0	1	18	C.P. Snow, The corridors of power
+humble	s	C	dr	drama	1963	A	a2	attributive	0	0	0	0	94	D. Rudkin, Afore night come
+likely	a	C	gc	drama	1963	A	b2	predicative	0	0	0	0	173	G. Cooper, Everything in the garden
+skinny	s	C	gc	drama	1963	A	b2	predicative	0	0	0	0	165	G. Cooper, Everything in the garden
+simple	s	S	gc	drama	1963	A	m	attributive	NA	NA	NA	1	215	G. Cooper, Everything in the garden
+easy	s	C	gc	drama	1963	A	b2	predicative	0	0	0	0	201	G. Cooper, Everything in the garden
+busy	s	S	gc	drama	1963	A	l	attributive	NA	NA	NA	0	220	G. Cooper, Everything in the garden
+foggy	s	S	hp	drama	1960	A	l	attributive	NA	NA	NA	0	62	Harold Pinter, The caretaker
+clever	a	C	ja	drama	1964	B	b1	predicative	1	0	0	0	39	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+noisy	s	S	ja	drama	1964	B	l	attributive	NA	NA	NA	0	50	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+tidy	s	C	ja	drama	1964	B	b2	predicative	0	0	0	0	64	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+happy	s	C	ja	drama	1964	B	b2	predicative	0	0	0	0	233	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+happy	s	S	ja	drama	1964	B	l	attributive	NA	NA	NA	0	64	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+easy	s	C	ja	drama	1964	B	b2	predicative	0	0	0	0	78	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+easy	s	C	ja	drama	1964	B	b2	predicative	0	0	0	0	232	J. Arden, The bywaters of Babylon, Live like pigs, The happy haven
+narrow	s	S	lat	fiction	1962	B	l	attributive	NA	NA	NA	0	33	J. Braine, Life at the top
+quiet	s	C	lat	fiction	1962	B	a2	attributive	0	0	0	0	222	J. Braine, Life at the top
+happy	s	C	lat	fiction	1962	B	b1	predicative	1	0	0	0	255	J. Braine, Life at the top
+happy	s	C	lat	fiction	1962	B	a1	attributive	1	0	0	0	237	J. Braine, Life at the top
+early	s	C	lat	fiction	1962	B	c1	postnominal	1	0	0	0	135	J. Braine, Life at the top
+mangy	s	C	lat	fiction	1962	B	b2	predicative	0	0	0	0	230	J. Braine, Life at the top
+happy	s	C	lat	fiction	1962	B	c4	postnominal	0	0	1	0	254	J. Braine, Life at the top
+intense	a	C	lat	fiction	1962	B	c1	postnominal	1	0	0	0	146	J. Braine, Life at the top
+cosy	s	C	lat	fiction	1962	B	b2	predicative	0	0	0	0	83	J. Braine, Life at the top
+likely	a	C	lat	fiction	1962	B	b2	predicative	0	0	0	0	115	J. Braine, Life at the top
+blotchy	a	C	lat	fiction	1962	B	e1	predicative	1	0	0	1	233	J. Braine, Life at the top
+likely	a	C	lat	fiction	1962	B	b2	predicative	0	0	0	0	155	J. Braine, Life at the top
+pretty	s	C	lat	fiction	1962	B	a3	attributive	0	1	0	0	88	J. Braine, Life at the top
+mellow	a	C	lat	fiction	1962	B	c2	postnominal	0	0	0	0	182	J. Braine, Life at the top
+simple	s	S	lat	fiction	1962	B	l	attributive	NA	NA	NA	0	26	J. Braine, Life at the top
+likely	a	C	lat	fiction	1962	B	b2	predicative	0	0	0	0	33	J. Braine, Life at the top
+puffy	a	C	lat	fiction	1962	B	e1	predicative	1	0	0	1	233	J. Braine, Life at the top
+common	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	85	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	222	F.V. Bywater, A proficiency course in English
+common	a	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	205	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	75	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	a2	attributive	0	0	0	0	38	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	221	F.V. Bywater, A proficiency course in English
+noble	s	C	pce	nonfiction	1969	B	a1	attributive	1	0	0	0	216	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	75	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	91	F.V. Bywater, A proficiency course in English
+likely	a	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	184	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	231	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	28	F.V. Bywater, A proficiency course in English
+early	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	34	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	63	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	207	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	v	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	135	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	35	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	205	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	110	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	a2	attributive	0	0	0	0	69	F.V. Bywater, A proficiency course in English
+lonely	s	C	pce	nonfiction	1969	B	i1	NA	NA	NA	NA	NA	109	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	48	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	127	F.V. Bywater, A proficiency course in English
+early	s	C	pce	nonfiction	1969	B	a2	attributive	0	0	0	0	233	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	230	F.V. Bywater, A proficiency course in English
+easy	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	90	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	178	F.V. Bywater, A proficiency course in English
+happy	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	22	F.V. Bywater, A proficiency course in English
+lovely	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	130	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	216	F.V. Bywater, A proficiency course in English
+easy	s	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	74	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	a1	attributive	1	0	0	0	49	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	g1	nominalized	0	NA	0	0	28	F.V. Bywater, A proficiency course in English
+witty	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	111	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	28	F.V. Bywater, A proficiency course in English
+easy	s	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	157	F.V. Bywater, A proficiency course in English
+common	a	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	150	F.V. Bywater, A proficiency course in English
+easy	s	C	pce	nonfiction	1969	B	c4	postnominal	0	0	1	0	9	F.V. Bywater, A proficiency course in English
+common	a	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	122	F.V. Bywater, A proficiency course in English
+happy	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	196	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	185	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	29	F.V. Bywater, A proficiency course in English
+friendly	s	C	pce	nonfiction	1969	B	b1	predicative	1	0	0	0	24	F.V. Bywater, A proficiency course in English
+silly	s	C	pce	nonfiction	1969	B	i1	NA	NA	NA	NA	NA	177	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	l	attributive	NA	NA	NA	0	159	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	223	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	a2	attributive	0	0	0	0	60	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	223	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	a2	attributive	0	0	0	0	59	F.V. Bywater, A proficiency course in English
+common	s	C	pce	nonfiction	1969	B	b2	predicative	0	0	0	0	85	F.V. Bywater, A proficiency course in English
+common	s	S	pce	nonfiction	1969	B	m	attributive	NA	NA	NA	1	232	F.V. Bywater, A proficiency course in English
+simple	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	49	J. Braine, Room at the top
+subtle	a	C	rat	fiction	1957	B	b1	predicative	1	0	0	0	50	J. Braine, Room at the top
+simple	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	104	J. Braine, Room at the top
+dirty	a	C	rat	fiction	1957	B	b2	predicative	0	0	0	0	120	J. Braine, Room at the top
+tatty	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	33	J. Braine, Room at the top
+easy	s	C	rat	fiction	1957	B	c4	postnominal	0	0	1	0	145	J. Braine, Room at the top
+healthy	s	C	rat	fiction	1957	B	a2	attributive	0	0	0	0	165	J. Braine, Room at the top
+healthy	s	C	rat	fiction	1957	B	a2	attributive	0	0	0	0	165	J. Braine, Room at the top
+handsome	a	C	rat	fiction	1957	B	b1	predicative	1	0	0	0	37	J. Braine, Room at the top
+naughty	s	S	rat	fiction	1957	B	n	predicative	NA	NA	NA	0	122	J. Braine, Room at the top
+remote	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	126	J. Braine, Room at the top
+pretty	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	8	J. Braine, Room at the top
+greedy	a	C	rat	fiction	1957	B	b1	predicative	1	0	0	0	98	J. Braine, Room at the top
+pleasant	a	C	rat	fiction	1957	B	g1	nominalized	0	NA	0	0	216	J. Braine, Room at the top
+easy	s	C	rat	fiction	1957	B	a2	attributive	0	0	0	0	42	J. Braine, Room at the top
+pretty	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	109	J. Braine, Room at the top
+mucky	s	S	rat	fiction	1957	B	m	attributive	NA	NA	NA	1	107	J. Braine, Room at the top
+simple	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	213	J. Braine, Room at the top
+happy	s	S	rat	fiction	1957	B	l	attributive	NA	NA	NA	0	111	J. Braine, Room at the top
+clever	s	C	sea	newspaper	1974	A	a2	attributive	0	0	0	0	18	Sunday Express Jun 23 1974
+likely	a	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	25	Sunday Express Jun 23 1974
+likely	a	C	sea	newspaper	1974	A	b2	predicative	0	0	0	0	14	Sunday Express Jun 23 1974
+pretty	s	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	2	Sunday Express Jun 23 1974
+simple	s	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	16	Sunday Express Jun 23 1974
+compact	a	C	sea	newspaper	1974	A	e1	predicative	1	0	0	1	3	Sunday Express Jun 23 1974
+pretty	s	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	12	Sunday Express Jun 23 1974
+happy	s	S	sea	newspaper	1974	A	n	predicative	NA	NA	NA	0	2	Sunday Express Jun 23 1974
+early	s	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	9	Sunday Express Jun 23 1974
+quiet	s	C	sea	newspaper	1974	A	a2	attributive	0	0	0	0	12	Sunday Express Jun 23 1974
+pricy	s	C	sea	newspaper	1974	A	a3	attributive	0	1	0	0	12	Sunday Express Jun 23 1974
+tricky	s	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	27	Sunday Express Jun 23 1974
+common	a	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	22	Sunday Express Jun 23 1974
+happy	s	S	sea	newspaper	1974	A	l	attributive	NA	NA	NA	0	18	Sunday Express Jun 23 1974
+severe	a	C	sea	newspaper	1974	A	b1	predicative	1	0	0	0	27	Sunday Express Jun 23 1974
+pretty	s	C	sea	newspaper	1974	A	e1	predicative	1	0	0	1	3	Sunday Express Jun 23 1974
+noble	s	S	sea	newspaper	1974	A	m	attributive	NA	NA	NA	1	15	Sunday Express Jun 23 1974
+happy	s	C	sea	newspaper	1974	A	b1	predicative	1	0	0	0	26	Sunday Express Jun 23 1974
+secure	a	C	sea	newspaper	1974	A	b2	predicative	0	0	0	0	26	Sunday Express Jun 23 1974
+early	s	C	sea	newspaper	1974	A	a3	attributive	0	1	0	0	27	Sunday Express Jun 23 1974
+heavy	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	26	Sunday Express Jun 30 1974
+early	s	C	seb	newspaper	1974	A	a3	attributive	0	1	0	0	27	Sunday Express Jun 30 1974
+lovely	a	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	16	Sunday Express Jun 30 1974
+cruel	a	S	seb	newspaper	1974	A	n	predicative	NA	NA	NA	0	11	Sunday Express Jun 30 1974
+dolly	s	C	seb	newspaper	1974	A	e1	predicative	1	0	0	1	2	Sunday Express Jun 30 1974
+sober	a	C	seb	newspaper	1974	A	c2	postnominal	0	0	0	0	11	Sunday Express Jun 30 1974
+easy	s	C	seb	newspaper	1974	A	b1	predicative	1	0	0	0	24	Sunday Express Jun 30 1974
+easy	s	C	seb	newspaper	1974	A	b1	predicative	1	0	0	0	24	Sunday Express Jun 30 1974
+heavy	s	C	seb	newspaper	1974	A	a3	attributive	0	1	0	0	28	Sunday Express Jun 30 1974
+pretty	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	5	Sunday Express Jun 30 1974
+dire	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	3	Sunday Express Jun 30 1974
+happy	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	15	Sunday Express Jun 30 1974
+lovely	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	12	Sunday Express Jun 30 1974
+ugly	a	C	seb	newspaper	1974	A	e1	predicative	1	0	0	1	5	Sunday Express Jun 30 1974
+heavy	s	C	seb	newspaper	1974	A	a1	attributive	1	0	0	0	11	Sunday Express Jun 30 1974
+needy	a	C	seb	newspaper	1974	A	d2	attributive	0	0	0	1	11	Sunday Express Jun 30 1974
+catchy	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	18	Sunday Express Jun 30 1974
+likely	a	C	seb	newspaper	1974	A	c4	postnominal	0	0	1	0	14	Sunday Express Jun 30 1974
+happy	s	S	seb	newspaper	1974	A	l	attributive	NA	NA	NA	0	3	Sunday Express Jun 30 1974
+happy	s	C	seb	newspaper	1974	A	a2	attributive	0	0	0	0	3	Sunday Express Jun 30 1974
+likely	a	C	seb	newspaper	1974	A	c4	postnominal	0	0	1	0	14	Sunday Express Jun 30 1974
+happy	s	C	seb	newspaper	1974	A	a2	attributive	0	0	0	0	19	Sunday Express Jun 30 1974
+early	s	C	seb	newspaper	1974	A	a2	attributive	0	0	0	0	1	Sunday Express Jun 30 1974
+happy	s	S	seb	newspaper	1974	A	m	attributive	NA	NA	NA	1	18	Sunday Express Jun 30 1974
+happy	s	C	sec	newspaper	1974	A	b2	predicative	0	0	0	0	17	Sunday Express Jul 7 1974
+lively	s	S	sec	newspaper	1974	A	l	attributive	NA	NA	NA	0	14	Sunday Express Jul 7 1974
+easy	s	C	sec	newspaper	1974	A	b2	predicative	0	0	0	0	4	Sunday Express Jul 7 1974
+happy	s	C	sec	newspaper	1974	A	b2	predicative	0	0	0	0	24	Sunday Express Jul 7 1974
+lively	s	S	sec	newspaper	1974	A	m	attributive	NA	NA	NA	1	18	Sunday Express Jul 7 1974
+easy	s	C	sec	newspaper	1974	A	b1	predicative	1	0	0	0	25	Sunday Express Jul 7 1974
+likely	a	C	sec	newspaper	1974	A	b2	predicative	0	0	0	0	26	Sunday Express Jul 7 1974
+early	s	S	sec	newspaper	1974	A	l	attributive	NA	NA	NA	0	1	Sunday Express Jul 7 1974
+easy	s	C	sec	newspaper	1974	A	c4	postnominal	0	0	1	0	8	Sunday Express Jul 7 1974
+busy	s	C	sec	newspaper	1974	A	b1	predicative	1	0	0	0	3	Sunday Express Jul 7 1974
+early	s	S	sec	newspaper	1974	A	l	attributive	NA	NA	NA	0	6	Sunday Express Jul 7 1974
+simple	s	S	sec	newspaper	1974	A	l	attributive	NA	NA	NA	0	22	Sunday Express Jul 7 1974
+lazy	s	S	sec	newspaper	1974	A	l	attributive	NA	NA	NA	0	19	Sunday Express Jul 7 1974
+clever	s	S	sec	newspaper	1974	A	n	predicative	NA	NA	NA	0	28	Sunday Express Jul 7 1974
+early	s	C	sec	newspaper	1974	A	a2	attributive	0	0	0	0	27	Sunday Express Jul 7 1974
+easy	s	C	sec	newspaper	1974	A	b2	predicative	0	0	0	0	9	Sunday Express Jul 7 1974
+easy	s	C	sec	newspaper	1974	A	c4	postnominal	0	0	1	0	6	Sunday Express Jul 7 1974
+pretty	s	S	sma	newspaper	1974	A	n	predicative	NA	NA	NA	0	15	Sunday Mirror Jun 23 1974
+heavy	s	S	sma	newspaper	1974	A	l	attributive	NA	NA	NA	0	40	Sunday Mirror Jun 23 1974
+zany	s	S	sma	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Mirror Jun 23 1974
+early	s	C	sma	newspaper	1974	A	a2	attributive	0	0	0	0	25	Sunday Mirror Jun 23 1974
+raunchy	s	S	sma	newspaper	1974	A	n	predicative	NA	NA	NA	0	12	Sunday Mirror Jun 23 1974
+happy	s	C	sma	newspaper	1974	A	a2	attributive	0	0	0	0	11	Sunday Mirror Jun 23 1974
+easy	s	C	sma	newspaper	1974	A	b1	predicative	1	0	0	0	27	Sunday Mirror Jun 23 1974
+gentle	s	S	sma	newspaper	1974	A	l	attributive	NA	NA	NA	0	21	Sunday Mirror Jun 23 1974
+crazy	s	S	sma	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Mirror Jun 23 1974
+zany	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	7	Sunday Mirror Jun 30 1974
+unkind	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	2	Sunday Mirror Jun 30 1974
+simple	s	C	smb	newspaper	1974	A	b2	predicative	0	0	0	0	10	Sunday Mirror Jun 30 1974
+happy	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	21	Sunday Mirror Jun 30 1974
+sexy	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Mirror Jun 30 1974
+dishy	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	26	Sunday Mirror Jun 30 1974
+racy	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	11	Sunday Mirror Jun 30 1974
+easy	s	C	smb	newspaper	1974	A	b2	predicative	0	0	0	0	10	Sunday Mirror Jun 30 1974
+dishy	s	S	smb	newspaper	1974	A	m	attributive	NA	NA	NA	1	19	Sunday Mirror Jun 30 1974
+happy	s	C	smb	newspaper	1974	A	b2	predicative	0	0	0	0	17	Sunday Mirror Jun 30 1974
+crusty	s	S	smb	newspaper	1974	A	m	attributive	NA	NA	NA	1	27	Sunday Mirror Jun 30 1974
+easy	s	S	smb	newspaper	1974	A	m	attributive	NA	NA	NA	1	21	Sunday Mirror Jun 30 1974
+smelly	s	S	smb	newspaper	1974	A	l	attributive	NA	NA	NA	0	32	Sunday Mirror Jun 30 1974
+early	s	C	smb	newspaper	1974	A	a2	attributive	0	0	0	0	5	Sunday Mirror Jun 30 1974
+shiny	s	C	smb	newspaper	1974	A	b2	predicative	0	0	0	0	14	Sunday Mirror Jun 30 1974
+smelly	s	C	smb	newspaper	1974	A	i1	NA	NA	NA	NA	NA	32	Sunday Mirror Jun 30 1974
+dirty	s	S	smc	newspaper	1974	A	l	attributive	NA	NA	NA	0	23	Sunday Mirror Jul 7 1974
+severe	a	S	smc	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Mirror Jul 7 1974
+flimsy	s	S	smc	newspaper	1974	A	l	attributive	NA	NA	NA	0	26	Sunday Mirror Jul 7 1974
+steady	s	C	smc	newspaper	1974	A	b1	predicative	1	0	0	0	37	Sunday Mirror Jul 7 1974
+nasty	s	S	smc	newspaper	1974	A	l	attributive	NA	NA	NA	0	12	Sunday Mirror Jul 7 1974
+happy	s	C	smc	newspaper	1974	A	b2	predicative	0	0	0	0	36	Sunday Mirror Jul 7 1974
+discreet	a	C	smc	newspaper	1974	A	b2	predicative	0	0	0	0	32	Sunday Mirror Jul 7 1974
+likely	a	C	sta	newspaper	1974	A	b1	predicative	1	0	0	0	55	Sunday Times, Jun 9 1974
+easy	s	C	sta	newspaper	1974	A	b1	predicative	1	0	0	0	39	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	b1	predicative	1	0	0	0	42	Sunday Times, Jun 9 1974
+simple	a	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	19	Sunday Times, Jun 9 1974
+costly	s	C	sta	newspaper	1974	A	d2	attributive	0	0	0	1	59	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a3	attributive	0	1	0	0	37	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a2	attributive	0	0	0	0	15	Sunday Times, Jun 9 1974
+feeble	s	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	9	Sunday Times, Jun 9 1974
+acute	a	C	sta	newspaper	1974	A	c4	postnominal	0	0	1	0	62	Sunday Times, Jun 9 1974
+sexy	s	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	37	Sunday Times, Jun 9 1974
+easy	s	C	sta	newspaper	1974	A	c4	postnominal	0	0	1	0	16	Sunday Times, Jun 9 1974
+nasty	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	41	Sunday Times, Jun 9 1974
+lively	s	C	sta	newspaper	1974	A	b1	predicative	1	0	0	0	34	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a2	attributive	0	0	0	0	4	Sunday Times, Jun 9 1974
+remote	a	C	sta	newspaper	1974	A	e2	predicative	0	0	0	1	32	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a2	attributive	0	0	0	0	13	Sunday Times, Jun 9 1974
+likely	a	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	38	Sunday Times, Jun 9 1974
+rusty	s	C	sta	newspaper	1974	A	b1	predicative	1	0	0	0	16	Sunday Times, Jun 9 1974
+heavy	s	C	sta	newspaper	1974	A	a1	attributive	1	0	0	0	32	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a3	attributive	0	1	0	0	38	Sunday Times, Jun 9 1974
+early	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	37	Sunday Times, Jun 9 1974
+tricky	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	31	Sunday Times, Jun 9 1974
+severe	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	17	Sunday Times, Jun 9 1974
+larky	a	C	sta	newspaper	1974	A	a3	attributive	0	1	0	0	29	Sunday Times, Jun 9 1974
+easy	s	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	9	Sunday Times, Jun 9 1974
+mellow	s	C	sta	newspaper	1974	A	d1	attributive	1	0	0	1	37	Sunday Times, Jun 9 1974
+able	a	C	sta	newspaper	1974	A	d1	attributive	1	0	0	1	16	Sunday Times, Jun 9 1974
+quiet	s	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	38	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a2	attributive	0	0	0	0	2	Sunday Times, Jun 9 1974
+easy	s	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	3	Sunday Times, Jun 9 1974
+simple	s	C	sta	newspaper	1974	A	a2	attributive	0	0	0	0	21	Sunday Times, Jun 9 1974
+silly	s	C	sta	newspaper	1974	A	a1	attributive	1	0	0	0	39	Sunday Times, Jun 9 1974
+easy	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	52	Sunday Times, Jun 9 1974
+funny	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	52	Sunday Times, Jun 9 1974
+remote	s	C	sta	newspaper	1974	A	a2	attributive	0	0	0	0	30	Sunday Times, Jun 9 1974
+severe	a	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	12	Sunday Times, Jun 9 1974
+likely	a	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	6	Sunday Times, Jun 9 1974
+healthy	s	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	55	Sunday Times, Jun 9 1974
+fruity	s	C	sta	newspaper	1974	A	c2	postnominal	0	0	0	0	32	Sunday Times, Jun 9 1974
+nasty	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	28	Sunday Times, Jun 9 1974
+early	s	C	sta	newspaper	1974	A	a3	attributive	0	1	0	0	31	Sunday Times, Jun 9 1974
+narrow	s	C	sta	newspaper	1974	A	a3	attributive	0	1	0	0	19	Sunday Times, Jun 9 1974
+likely	a	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	53	Sunday Times, Jun 9 1974
+clever	s	S	sta	newspaper	1974	A	l	attributive	NA	NA	NA	0	30	Sunday Times, Jun 9 1974
+simple	s	C	sta	newspaper	1974	A	b1	predicative	1	0	0	0	58	Sunday Times, Jun 9 1974
+heavy	s	C	sta	newspaper	1974	A	a3	attributive	0	1	0	0	16	Sunday Times, Jun 9 1974
+common	a	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	59	Sunday Times, Jun 9 1974
+acute	a	C	sta	newspaper	1974	A	b2	predicative	0	0	0	0	53	Sunday Times, Jun 9 1974
+likely	a	C	stb	newspaper	1974	A	a3	attributive	0	1	0	0	28	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	a3	attributive	0	1	0	0	31	Sunday Times, Jun 16 1974
+bitter	a	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Times, Jun 16 1974
+able	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Times, Jun 16 1974
+moody	a	C	stb	newspaper	1974	A	f4	postnominal	0	0	1	1	41	Sunday Times, Jun 16 1974
+heavy	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	21	Sunday Times, Jun 16 1974
+spicy	s	S	stb	newspaper	1974	A	o	predicative	NA	NA	NA	1	32	Sunday Times, Jun 16 1974
+friendly	a	C	stb	newspaper	1974	A	d2	attributive	0	0	0	1	17	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	a2	attributive	0	0	0	0	20	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	a2	attributive	0	0	0	0	8	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	a3	attributive	0	1	0	0	11	Sunday Times, Jun 16 1974
+cruel	a	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	13	Sunday Times, Jun 16 1974
+pushy	s	S	stb	newspaper	1974	A	m	attributive	NA	NA	NA	1	32	Sunday Times, Jun 16 1974
+able	a	C	stb	newspaper	1974	A	g1	nominalized	0	NA	0	0	15	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	a3	attributive	0	1	0	0	11	Sunday Times, Jun 16 1974
+gloomy	a	C	stb	newspaper	1974	A	a2	attributive	0	0	0	0	41	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	b1	predicative	1	0	0	0	20	Sunday Times, Jun 16 1974
+simple	s	S	stb	newspaper	1974	A	n	predicative	NA	NA	NA	0	32	Sunday Times, Jun 16 1974
+noisy	s	C	stb	newspaper	1974	A	i1	NA	NA	NA	NA	NA	19	Sunday Times, Jun 16 1974
+common	s	C	stb	newspaper	1974	A	a3	attributive	0	1	0	0	39	Sunday Times, Jun 16 1974
+easy	s	S	stb	newspaper	1974	A	m	attributive	NA	NA	NA	1	20	Sunday Times, Jun 16 1974
+silly	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	31	Sunday Times, Jun 16 1974
+easy	s	C	stb	newspaper	1974	A	d3	attributive	0	1	0	1	30	Sunday Times, Jun 16 1974
+likely	a	C	stb	newspaper	1974	A	i1	NA	NA	NA	NA	NA	4	Sunday Times, Jun 16 1974
+happy	s	C	stb	newspaper	1974	A	a2	attributive	0	0	0	0	41	Sunday Times, Jun 16 1974
+likely	a	C	stb	newspaper	1974	A	b2	predicative	0	0	0	0	39	Sunday Times, Jun 16 1974
+easy	s	C	stb	newspaper	1974	A	b1	predicative	1	0	0	0	38	Sunday Times, Jun 16 1974
+intense	a	C	stb	newspaper	1974	A	b1	predicative	1	0	0	0	2	Sunday Times, Jun 16 1974
+lively	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	29	Sunday Times, Jun 16 1974
+giddy	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	63	Sunday Times, Jun 16 1974
+stable	a	C	stb	newspaper	1974	A	b1	predicative	1	0	0	0	32	Sunday Times, Jun 16 1974
+funny	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	43	Sunday Times, Jun 16 1974
+severe	a	C	stb	newspaper	1974	A	b2	predicative	0	0	0	0	21	Sunday Times, Jun 16 1974
+likely	a	C	stb	newspaper	1974	A	b2	predicative	0	0	0	0	28	Sunday Times, Jun 16 1974
+funny	s	C	stb	newspaper	1974	A	b1	predicative	1	0	0	0	38	Sunday Times, Jun 16 1974
+simple	s	S	stb	newspaper	1974	A	l	attributive	NA	NA	NA	0	31	Sunday Times, Jun 16 1974
+early	s	C	stb	newspaper	1974	A	a3	attributive	0	1	0	0	41	Sunday Times, Jun 16 1974
+sober	a	C	stb	newspaper	1974	A	g1	nominalized	0	NA	0	0	31	Sunday Times, Jun 16 1974
+easy	s	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	23	Sunday Times, Jun 23 1974
+simple	s	C	stc	newspaper	1974	A	d2	attributive	0	0	0	1	27	Sunday Times, Jun 23 1974
+early	s	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	24	Sunday Times, Jun 23 1974
+early	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	29	Sunday Times, Jun 23 1974
+deadly	a	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	23	Sunday Times, Jun 23 1974
+tipsy	s	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	36	Sunday Times, Jun 23 1974
+clever	s	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	28	Sunday Times, Jun 23 1974
+able	s	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	28	Sunday Times, Jun 23 1974
+lively	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	12	Sunday Times, Jun 23 1974
+easy	s	C	stc	newspaper	1974	A	c4	postnominal	0	0	1	0	10	Sunday Times, Jun 23 1974
+sorry	s	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	36	Sunday Times, Jun 23 1974
+common	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	26	Sunday Times, Jun 23 1974
+common	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	26	Sunday Times, Jun 23 1974
+simple	s	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	8	Sunday Times, Jun 23 1974
+common	s	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	21	Sunday Times, Jun 23 1974
+easy	s	S	stc	newspaper	1974	A	m	attributive	NA	NA	NA	1	12	Sunday Times, Jun 23 1974
+likely	a	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	12	Sunday Times, Jun 23 1974
+early	s	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	12	Sunday Times, Jun 23 1974
+likely	a	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	11	Sunday Times, Jun 23 1974
+easy	s	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	20	Sunday Times, Jun 23 1974
+nasty	s	S	stc	newspaper	1974	A	m	attributive	NA	NA	NA	1	26	Sunday Times, Jun 23 1974
+early	s	C	stc	newspaper	1974	A	a3	attributive	0	1	0	0	42	Sunday Times, Jun 23 1974
+likely	a	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	25	Sunday Times, Jun 23 1974
+early	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	13	Sunday Times, Jun 23 1974
+happy	s	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	21	Sunday Times, Jun 23 1974
+likely	a	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	10	Sunday Times, Jun 23 1974
+common	a	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	11	Sunday Times, Jun 23 1974
+stormy	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	11	Sunday Times, Jun 23 1974
+likely	a	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	12	Sunday Times, Jun 23 1974
+easy	s	C	stc	newspaper	1974	A	c4	postnominal	0	0	1	0	37	Sunday Times, Jun 23 1974
+pretty	s	C	stc	newspaper	1974	A	b1	predicative	1	0	0	0	28	Sunday Times, Jun 23 1974
+likely	a	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	26	Sunday Times, Jun 23 1974
+sunny	s	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	42	Sunday Times, Jun 23 1974
+dirty	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	41	Sunday Times, Jun 23 1974
+pretty	s	C	stc	newspaper	1974	A	e1	predicative	1	0	0	1	31	Sunday Times, Jun 23 1974
+busy	s	C	stc	newspaper	1974	A	b2	predicative	0	0	0	0	48	Sunday Times, Jun 23 1974
+early	s	C	stc	newspaper	1974	A	a3	attributive	0	1	0	0	30	Sunday Times, Jun 23 1974
+remote	a	C	stc	newspaper	1974	A	d3	attributive	0	1	0	1	10	Sunday Times, Jun 23 1974
+common	a	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	43	Sunday Times, Jun 23 1974
+early	s	C	stc	newspaper	1974	A	a3	attributive	0	1	0	0	36	Sunday Times, Jun 23 1974
+discreet	a	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	43	Sunday Times, Jun 23 1974
+common	a	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	48	Sunday Times, Jun 23 1974
+early	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	30	Sunday Times, Jun 23 1974
+pretty	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	48	Sunday Times, Jun 23 1974
+funny	s	S	stc	newspaper	1974	A	l	attributive	NA	NA	NA	0	30	Sunday Times, Jun 23 1974
+early	s	C	stc	newspaper	1974	A	a2	attributive	0	0	0	0	41	Sunday Times, Jun 23 1974
+easy	s	C	std	newspaper	1974	A	b2	predicative	0	0	0	0	9	Sunday Times, Jun 30 1974
+discreet	s	C	std	newspaper	1974	A	d2	attributive	0	0	0	1	17	Sunday Times, Jun 30 1974
+easy	s	C	std	newspaper	1974	A	c4	postnominal	0	0	1	0	13	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	52	Sunday Times, Jun 30 1974
+simple	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	54	Sunday Times, Jun 30 1974
+simple	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	33	Sunday Times, Jun 30 1974
+likely	a	S	std	newspaper	1974	A	m	attributive	NA	NA	NA	1	6	Sunday Times, Jun 30 1974
+pretty	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	32	Sunday Times, Jun 30 1974
+ready	a	C	std	newspaper	1974	A	b2	predicative	0	0	0	0	30	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	36	Sunday Times, Jun 30 1974
+narrow	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	30	Sunday Times, Jun 30 1974
+simple	s	C	std	newspaper	1974	A	d2	attributive	0	0	0	1	17	Sunday Times, Jun 30 1974
+sublime	a	C	std	newspaper	1974	A	a1	attributive	1	0	0	0	36	Sunday Times, Jun 30 1974
+simple	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	15	Sunday Times, Jun 30 1974
+stately	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	32	Sunday Times, Jun 30 1974
+easy	s	S	std	newspaper	1974	A	n	predicative	NA	NA	NA	0	62	Sunday Times, Jun 30 1974
+easy	s	C	std	newspaper	1974	A	c3	postnominal	1	0	1	0	39	Sunday Times, Jun 30 1974
+pretty	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	34	Sunday Times, Jun 30 1974
+heavy	s	C	std	newspaper	1974	A	b2	predicative	0	0	0	0	15	Sunday Times, Jun 30 1974
+dingy	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	56	Sunday Times, Jun 30 1974
+heavy	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	19	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	52	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	c2	postnominal	0	0	0	0	28	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	39	Sunday Times, Jun 30 1974
+early	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	39	Sunday Times, Jun 30 1974
+heavy	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	15	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	41	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	16	Sunday Times, Jun 30 1974
+severe	a	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	4	Sunday Times, Jun 30 1974
+sour	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	55	Sunday Times, Jun 30 1974
+easy	s	C	std	newspaper	1974	A	c4	postnominal	0	0	1	0	72	Sunday Times, Jun 30 1974
+dirty	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	37	Sunday Times, Jun 30 1974
+likely	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	4	Sunday Times, Jun 30 1974
+quiet	s	C	std	newspaper	1974	A	d1	attributive	1	0	0	1	36	Sunday Times, Jun 30 1974
+early	s	S	std	newspaper	1974	A	n	predicative	NA	NA	NA	0	1	Sunday Times, Jun 30 1974
+lovely	s	C	std	newspaper	1974	A	b1	predicative	1	0	0	0	36	Sunday Times, Jun 30 1974
+humble	a	C	std	newspaper	1974	A	b2	predicative	0	0	0	0	56	Sunday Times, Jun 30 1974
+heavy	s	C	std	newspaper	1974	A	d3	attributive	0	1	0	1	54	Sunday Times, Jun 30 1974
+tender	s	S	std	newspaper	1974	A	n	predicative	NA	NA	NA	0	12	Sunday Times, Jun 30 1974
+early	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	52	Sunday Times, Jun 30 1974
+happy	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	3	Sunday Times, Jun 30 1974
+likely	a	C	std	newspaper	1974	A	b1	predicative	1	0	0	0	16	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a2	attributive	0	0	0	0	11	Sunday Times, Jun 30 1974
+early	s	C	std	newspaper	1974	A	a3	attributive	0	1	0	0	1	Sunday Times, Jun 30 1974
+likely	a	C	std	newspaper	1974	A	b1	predicative	1	0	0	0	53	Sunday Times, Jun 30 1974
+quiet	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	17	Sunday Times, Jun 30 1974
+able	a	C	std	newspaper	1974	A	b2	predicative	0	0	0	0	30	Sunday Times, Jun 30 1974
+early	s	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	39	Sunday Times, Jun 30 1974
+likely	a	S	std	newspaper	1974	A	l	attributive	NA	NA	NA	0	13	Sunday Times, Jun 30 1974
+early	s	C	ta	fiction	1960	B	a2	attributive	0	0	0	0	67	C.P. Snow, The affair
+bitter	s	S	ta	fiction	1960	B	m	attributive	NA	NA	NA	1	174	C.P. Snow, The affair
+angry	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	237	C.P. Snow, The affair
+early	s	C	ta	fiction	1960	B	a2	attributive	0	0	0	0	136	C.P. Snow, The affair
+stately	a	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	247	C.P. Snow, The affair
+pure	s	C	ta	fiction	1960	B	a2	attributive	0	0	0	0	89	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	83	C.P. Snow, The affair
+simple	s	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	87	C.P. Snow, The affair
+early	s	C	ta	fiction	1960	B	c2	postnominal	0	0	0	0	21	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	23	C.P. Snow, The affair
+exact	a	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	46	C.P. Snow, The affair
+remote	a	C	ta	fiction	1960	B	e1	predicative	1	0	0	1	215	C.P. Snow, The affair
+heavy	s	C	ta	fiction	1960	B	a2	attributive	0	0	0	0	153	C.P. Snow, The affair
+happy	s	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	123	C.P. Snow, The affair
+homely	a	C	ta	fiction	1960	B	a2	attributive	0	0	0	0	236	C.P. Snow, The affair
+quiet	s	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	179	C.P. Snow, The affair
+lofty	s	S	ta	fiction	1960	B	l	attributive	NA	NA	NA	0	298	C.P. Snow, The affair
+likely	a	C	ta	fiction	1960	B	b1	predicative	1	0	0	0	174	C.P. Snow, The affair
+quiet	s	C	ta	fiction	1960	B	b1	predicative	1	0	0	0	270	C.P. Snow, The affair
+clever	s	C	ta	fiction	1960	B	b1	predicative	1	0	0	0	297	C.P. Snow, The affair
+clever	s	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	13	C.P. Snow, The affair
+simple	s	S	ta	fiction	1960	B	m	attributive	NA	NA	NA	1	165	C.P. Snow, The affair
+discreet	a	S	ta	fiction	1960	B	m	attributive	NA	NA	NA	1	12	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	71	C.P. Snow, The affair
+remote	s	S	ta	fiction	1960	B	l	attributive	NA	NA	NA	0	79	C.P. Snow, The affair
+lofty	a	S	ta	fiction	1960	B	l	attributive	NA	NA	NA	0	184	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	105	C.P. Snow, The affair
+happy	s	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	134	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	108	C.P. Snow, The affair
+pleasant	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	176	C.P. Snow, The affair
+happy	s	C	ta	fiction	1960	B	c1	postnominal	1	0	0	0	57	C.P. Snow, The affair
+pure	s	C	ta	fiction	1960	B	b1	predicative	1	0	0	0	232	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	105	C.P. Snow, The affair
+friendly	a	S	ta	fiction	1960	B	l	attributive	NA	NA	NA	0	312	C.P. Snow, The affair
+handsome	a	C	ta	fiction	1960	B	b2	predicative	0	0	0	0	12	C.P. Snow, The affair
+gentle	a	C	ta	fiction	1960	B	e1	predicative	1	0	0	1	272	C.P. Snow, The affair
+bloody	s	S	ta	fiction	1960	B	l	attributive	NA	NA	NA	0	311	C.P. Snow, The affair
+silly	s	C	ta	fiction	1960	B	c2	postnominal	0	0	0	0	157	C.P. Snow, The affair
+steady	s	C	ta	fiction	1960	B	b1	predicative	1	0	0	0	152	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c4	postnominal	0	0	1	0	148	C.P. Snow, The affair
+cosy	s	C	ta	fiction	1960	B	b1	predicative	1	0	0	0	22	C.P. Snow, The affair
+easy	s	C	ta	fiction	1960	B	c3	postnominal	1	0	1	0	186	C.P. Snow, The affair
+heavy	s	C	tbw	nonfiction	1973	B	a3	attributive	0	1	0	0	107	W.H.T. Tayleur, home brewing and wine-making
+common	a	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	68	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	144	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	125	W.H.T. Tayleur, home brewing and wine-making
+handy	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	94	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	91	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	e2	predicative	0	0	0	1	244	W.H.T. Tayleur, home brewing and wine-making
+pleasant	a	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	192	W.H.T. Tayleur, home brewing and wine-making
+likely	a	C	tbw	nonfiction	1973	B	i1	NA	NA	NA	NA	NA	66	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	82	W.H.T. Tayleur, home brewing and wine-making
+likely	a	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	91	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	c4	postnominal	0	0	1	0	57	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	211	W.H.T. Tayleur, home brewing and wine-making
+gentle	s	S	tbw	nonfiction	1973	B	m	attributive	NA	NA	NA	1	203	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	254	W.H.T. Tayleur, home brewing and wine-making
+early	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	69	W.H.T. Tayleur, home brewing and wine-making
+pleasant	a	C	tbw	nonfiction	1973	B	a1	attributive	1	0	0	0	297	W.H.T. Tayleur, home brewing and wine-making
+likely	a	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	27	W.H.T. Tayleur, home brewing and wine-making
+thirsty	s	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	13	W.H.T. Tayleur, home brewing and wine-making
+likely	a	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	31	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	e2	predicative	0	0	0	1	269	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	72	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	233	W.H.T. Tayleur, home brewing and wine-making
+simple	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	280	W.H.T. Tayleur, home brewing and wine-making
+pleasant	a	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	72	W.H.T. Tayleur, home brewing and wine-making
+busy	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	92	W.H.T. Tayleur, home brewing and wine-making
+costly	a	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	276	W.H.T. Tayleur, home brewing and wine-making
+sticky	s	C	tbw	nonfiction	1973	B	i1	NA	NA	NA	NA	NA	81	W.H.T. Tayleur, home brewing and wine-making
+simple	s	S	tbw	nonfiction	1973	B	n	predicative	NA	NA	NA	0	37	W.H.T. Tayleur, home brewing and wine-making
+likely	a	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	23	W.H.T. Tayleur, home brewing and wine-making
+pure	s	S	tbw	nonfiction	1973	B	n	predicative	NA	NA	NA	0	33	W.H.T. Tayleur, home brewing and wine-making
+early	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	152	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	11	W.H.T. Tayleur, home brewing and wine-making
+remote	a	S	tbw	nonfiction	1973	B	n	predicative	NA	NA	NA	0	85	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	b1	predicative	1	0	0	0	97	W.H.T. Tayleur, home brewing and wine-making
+simple	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	300	W.H.T. Tayleur, home brewing and wine-making
+early	s	C	tbw	nonfiction	1973	B	a2	attributive	0	0	0	0	156	W.H.T. Tayleur, home brewing and wine-making
+common	a	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	38	W.H.T. Tayleur, home brewing and wine-making
+easy	s	S	tbw	nonfiction	1973	B	o	predicative	NA	NA	NA	1	303	W.H.T. Tayleur, home brewing and wine-making
+remote	a	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	192	W.H.T. Tayleur, home brewing and wine-making
+easy	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	115	W.H.T. Tayleur, home brewing and wine-making
+heavy	s	C	tbw	nonfiction	1973	B	i1	NA	NA	NA	NA	NA	242	W.H.T. Tayleur, home brewing and wine-making
+heavy	s	C	tbw	nonfiction	1973	B	d2	attributive	0	0	0	1	280	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	265	W.H.T. Tayleur, home brewing and wine-making
+common	a	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	147	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	e2	predicative	0	0	0	1	53	W.H.T. Tayleur, home brewing and wine-making
+easy	s	C	tbw	nonfiction	1973	B	c4	postnominal	0	0	1	0	211	W.H.T. Tayleur, home brewing and wine-making
+speedy	s	C	tbw	nonfiction	1973	B	d2	attributive	0	0	0	1	291	W.H.T. Tayleur, home brewing and wine-making
+common	a	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	42	W.H.T. Tayleur, home brewing and wine-making
+heavy	s	C	tbw	nonfiction	1973	B	i2	NA	NA	NA	NA	NA	100	W.H.T. Tayleur, home brewing and wine-making
+common	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	244	W.H.T. Tayleur, home brewing and wine-making
+remote	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	153	W.H.T. Tayleur, home brewing and wine-making
+subtle	a	C	tbw	nonfiction	1973	B	a3	attributive	0	1	0	0	156	W.H.T. Tayleur, home brewing and wine-making
+gassy	s	C	tbw	nonfiction	1973	B	d2	attributive	0	0	0	1	132	W.H.T. Tayleur, home brewing and wine-making
+heavy	s	C	tbw	nonfiction	1973	B	a3	attributive	0	1	0	0	107	W.H.T. Tayleur, home brewing and wine-making
+easy	s	S	tbw	nonfiction	1973	B	o	predicative	NA	NA	NA	1	92	W.H.T. Tayleur, home brewing and wine-making
+simple	s	S	tbw	nonfiction	1973	B	m	attributive	NA	NA	NA	1	267	W.H.T. Tayleur, home brewing and wine-making
+murky	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	290	W.H.T. Tayleur, home brewing and wine-making
+early	s	S	tbw	nonfiction	1973	B	m	attributive	NA	NA	NA	1	205	W.H.T. Tayleur, home brewing and wine-making
+early	s	S	tbw	nonfiction	1973	B	l	attributive	NA	NA	NA	0	154	W.H.T. Tayleur, home brewing and wine-making
+simple	s	C	tbw	nonfiction	1973	B	b2	predicative	0	0	0	0	105	W.H.T. Tayleur, home brewing and wine-making
+happy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	114	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	43	R. Hoggart, The uses of literacy
+ready	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	73	R. Hoggart, The uses of literacy
+quiet	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	254	R. Hoggart, The uses of literacy
+flashy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	194	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	43	R. Hoggart, The uses of literacy
+likely	a	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	31	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	n	predicative	NA	NA	NA	0	179	R. Hoggart, The uses of literacy
+silly	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	111	R. Hoggart, The uses of literacy
+common	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	129	R. Hoggart, The uses of literacy
+likely	a	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	62	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	157	R. Hoggart, The uses of literacy
+common	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	230	R. Hoggart, The uses of literacy
+common	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	85	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	163	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	33	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	323	R. Hoggart, The uses of literacy
+ready	s	C	tul	nonfiction	1957	B	g1	nominalized	0	NA	0	0	188	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	24	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	339	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	175	R. Hoggart, The uses of literacy
+likely	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	140	R. Hoggart, The uses of literacy
+sober	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	244	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	13	R. Hoggart, The uses of literacy
+common	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	76	R. Hoggart, The uses of literacy
+healthy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	182	R. Hoggart, The uses of literacy
+homely	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	111	R. Hoggart, The uses of literacy
+ready	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	335	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	343	R. Hoggart, The uses of literacy
+flashy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	107	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	43	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	162	R. Hoggart, The uses of literacy
+sober	a	C	tul	nonfiction	1957	B	d3	attributive	0	1	0	1	193	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	196	R. Hoggart, The uses of literacy
+dirty	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	256	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	84	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	224	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	43	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	294	R. Hoggart, The uses of literacy
+common	a	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	309	R. Hoggart, The uses of literacy
+able	a	C	tul	nonfiction	1957	B	c1	postnominal	1	0	0	0	174	R. Hoggart, The uses of literacy
+lucky	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	18	R. Hoggart, The uses of literacy
+heavy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	92	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	157	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	c4	postnominal	0	0	1	0	337	R. Hoggart, The uses of literacy
+subtle	a	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	322	R. Hoggart, The uses of literacy
+narrow	a	C	tul	nonfiction	1957	B	d3	attributive	0	1	0	1	343	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	29	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	247	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	51	R. Hoggart, The uses of literacy
+ugly	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	197	R. Hoggart, The uses of literacy
+steady	s	C	tul	nonfiction	1957	B	d2	attributive	0	0	0	1	252	R. Hoggart, The uses of literacy
+homely	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	351	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	298	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	304	R. Hoggart, The uses of literacy
+common	s	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	45	R. Hoggart, The uses of literacy
+easy	s	S	tul	nonfiction	1957	B	m	attributive	NA	NA	NA	1	141	R. Hoggart, The uses of literacy
+quiet	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	174	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	35	R. Hoggart, The uses of literacy
+shiny	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	356	R. Hoggart, The uses of literacy
+pleasant	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	194	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	d2	attributive	0	0	0	1	114	R. Hoggart, The uses of literacy
+healthy	a	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	169	R. Hoggart, The uses of literacy
+likely	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	74	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	258	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	244	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	114	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	279	R. Hoggart, The uses of literacy
+heavy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	354	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	81	R. Hoggart, The uses of literacy
+simple	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	301	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	m	attributive	NA	NA	NA	1	89	R. Hoggart, The uses of literacy
+shallow	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	192	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	c4	postnominal	0	0	1	0	83	R. Hoggart, The uses of literacy
+narrow	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	220	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	368	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	231	R. Hoggart, The uses of literacy
+glossy	s	C	tul	nonfiction	1957	B	d2	attributive	0	0	0	1	213	R. Hoggart, The uses of literacy
+holy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	204	R. Hoggart, The uses of literacy
+messy	s	C	tul	nonfiction	1957	B	f1	postnominal	1	0	0	1	147	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	284	R. Hoggart, The uses of literacy
+gentle	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	86	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	333	R. Hoggart, The uses of literacy
+simple	s	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	106	R. Hoggart, The uses of literacy
+simple	s	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	200	R. Hoggart, The uses of literacy
+homely	a	C	tul	nonfiction	1957	B	c4	postnominal	0	0	1	0	154	R. Hoggart, The uses of literacy
+gentle	s	C	tul	nonfiction	1957	B	b1	predicative	1	0	0	0	86	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	315	R. Hoggart, The uses of literacy
+common	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	212	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	274	R. Hoggart, The uses of literacy
+unfree	a	C	tul	nonfiction	1957	B	h2	predicative	0	NA	NA	NA	186	R. Hoggart, The uses of literacy
+happy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	299	R. Hoggart, The uses of literacy
+handsome	a	C	tul	nonfiction	1957	B	d2	attributive	0	0	0	1	163	R. Hoggart, The uses of literacy
+unfree	a	C	tul	nonfiction	1957	B	h2	predicative	0	NA	NA	NA	186	R. Hoggart, The uses of literacy
+simple	s	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	200	R. Hoggart, The uses of literacy
+pleasant	a	C	tul	nonfiction	1957	B	f4	postnominal	0	0	1	1	178	R. Hoggart, The uses of literacy
+healthy	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	274	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	48	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	d2	attributive	0	0	0	1	114	R. Hoggart, The uses of literacy
+common	a	S	tul	nonfiction	1957	B	l	attributive	NA	NA	NA	0	314	R. Hoggart, The uses of literacy
+narrow	s	C	tul	nonfiction	1957	B	e2	predicative	0	0	0	1	233	R. Hoggart, The uses of literacy
+common	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	202	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	143	R. Hoggart, The uses of literacy
+able	a	C	tul	nonfiction	1957	B	c2	postnominal	0	0	0	0	114	R. Hoggart, The uses of literacy
+tasty	s	C	tul	nonfiction	1957	B	c3	postnominal	1	0	1	0	38	R. Hoggart, The uses of literacy
+bitty	a	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	201	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	274	R. Hoggart, The uses of literacy
+quiet	s	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	328	R. Hoggart, The uses of literacy
+comely	a	C	tul	nonfiction	1957	B	a3	attributive	0	1	0	0	349	R. Hoggart, The uses of literacy
+healthy	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	216	R. Hoggart, The uses of literacy
+busy	s	S	tul	nonfiction	1957	B	m	attributive	NA	NA	NA	1	61	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	b2	predicative	0	0	0	0	282	R. Hoggart, The uses of literacy
+easy	s	C	tul	nonfiction	1957	B	c4	postnominal	0	0	1	0	100	R. Hoggart, The uses of literacy
+sober	a	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	335	R. Hoggart, The uses of literacy
+early	s	C	tul	nonfiction	1957	B	a2	attributive	0	0	0	0	195	R. Hoggart, The uses of literacy
+early	s	C	was	nonfiction	1957	A	a1	attributive	1	0	0	0	273	L.W. Marrison, Wines and spirits
+spicy	a	C	was	nonfiction	1957	A	d2	attributive	0	0	0	1	41	L.W. Marrison, Wines and spirits
+lucky	s	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	79	L.W. Marrison, Wines and spirits
+common	s	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	82	L.W. Marrison, Wines and spirits
+likely	a	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	82	L.W. Marrison, Wines and spirits
+pleasant	s	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	94	L.W. Marrison, Wines and spirits
+easy	s	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	156	L.W. Marrison, Wines and spirits
+holy	s	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	164	L.W. Marrison, Wines and spirits
+narrow	s	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	181	L.W. Marrison, Wines and spirits
+likely	a	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	211	L.W. Marrison, Wines and spirits
+heavy	s	C	was	nonfiction	1957	A	d3	attributive	0	1	0	1	188	L.W. Marrison, Wines and spirits
+easy	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	24	L.W. Marrison, Wines and spirits
+early	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	42	L.W. Marrison, Wines and spirits
+simple	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	53	L.W. Marrison, Wines and spirits
+simple	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	64	L.W. Marrison, Wines and spirits
+bitter	a	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	278	L.W. Marrison, Wines and spirits
+likely	a	S	was	nonfiction	1957	A	m	attributive	NA	NA	NA	1	175	L.W. Marrison, Wines and spirits
+simple	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	79	L.W. Marrison, Wines and spirits
+common	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	80	L.W. Marrison, Wines and spirits
+easy	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	80	L.W. Marrison, Wines and spirits
+early	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	85	L.W. Marrison, Wines and spirits
+lucky	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	24	L.W. Marrison, Wines and spirits
+wealthy	s	C	was	nonfiction	1957	A	b1	predicative	1	0	0	0	120	L.W. Marrison, Wines and spirits
+early	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	32	L.W. Marrison, Wines and spirits
+heavy	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	138	L.W. Marrison, Wines and spirits
+deadly	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	215	L.W. Marrison, Wines and spirits
+heavy	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	222	L.W. Marrison, Wines and spirits
+common	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	242	L.W. Marrison, Wines and spirits
+early	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	261	L.W. Marrison, Wines and spirits
+heavy	s	S	was	nonfiction	1957	A	n	predicative	NA	NA	NA	0	250	L.W. Marrison, Wines and spirits
+common	s	S	was	nonfiction	1957	A	m	attributive	NA	NA	NA	1	85	L.W. Marrison, Wines and spirits
+pleasant	a	C	was	nonfiction	1957	A	e2	predicative	0	0	0	1	168	L.W. Marrison, Wines and spirits
+heavy	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	135	L.W. Marrison, Wines and spirits
+mellow	s	C	was	nonfiction	1957	A	e1	predicative	1	0	0	1	124	L.W. Marrison, Wines and spirits
+simple	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	240	L.W. Marrison, Wines and spirits
+simple	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	83	L.W. Marrison, Wines and spirits
+simple	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	222	L.W. Marrison, Wines and spirits
+easy	s	C	was	nonfiction	1957	A	b1	predicative	1	0	0	0	274	L.W. Marrison, Wines and spirits
+early	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	54	L.W. Marrison, Wines and spirits
+common	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	66	L.W. Marrison, Wines and spirits
+heavy	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	261	L.W. Marrison, Wines and spirits
+exact	a	C	was	nonfiction	1957	A	b2	predicative	0	0	0	0	73	L.W. Marrison, Wines and spirits
+early	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	90	L.W. Marrison, Wines and spirits
+early	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	158	L.W. Marrison, Wines and spirits
+early	s	C	was	nonfiction	1957	A	a3	attributive	0	1	0	0	66	L.W. Marrison, Wines and spirits
+simple	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	231	L.W. Marrison, Wines and spirits
+common	a	C	was	nonfiction	1957	A	c1	postnominal	1	0	0	0	97	L.W. Marrison, Wines and spirits
+simple	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	246	L.W. Marrison, Wines and spirits
+stable	a	C	was	nonfiction	1957	A	d2	attributive	0	0	0	1	120	L.W. Marrison, Wines and spirits
+common	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	97	L.W. Marrison, Wines and spirits
+early	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	233	L.W. Marrison, Wines and spirits
+narrow	s	S	was	nonfiction	1957	A	l	attributive	NA	NA	NA	0	47	L.W. Marrison, Wines and spirits
+heavy	s	C	was	nonfiction	1957	A	a2	attributive	0	0	0	0	190	L.W. Marrison, Wines and spirits
