@@ -14,6 +14,7 @@ theme_dispersion_plot <- function(){
     axis.ticks.y = ggplot2::element_blank(),
     axis.text.y = ggplot2::element_blank(),
     panel.grid = ggplot2::element_blank(),
-    legend.position = "none"
+    legend.position = "none",
+    strip.clip = "off"
   )
 }

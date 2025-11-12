@@ -12,6 +12,7 @@ theme_spike_graph <- function(){
     axis.ticks.x = ggplot2::element_blank(),
     axis.text.x = ggplot2::element_blank(),
     panel.grid = ggplot2::element_blank(),
-    legend.position = "none"
+    legend.position = "none",
+    strip.clip = "off"
   )
 }
