@@ -7,8 +7,8 @@ theme_spike_graph <- function(){
 
   ggplot2::theme(
     panel.spacing = ggplot2::unit(0, "lines"),
-    strip.background = ggplot2::element_rect(color = "grey", fill = "white"),
-    panel.border = ggplot2::element_rect(color = "grey"),
+    strip.background = ggplot2::element_rect(color = "grey", fill = "white", linewidth = 1),
+    panel.border = ggplot2::element_rect(color = "grey", linewidth = 1),
     axis.ticks.x = ggplot2::element_blank(),
     axis.text.x = ggplot2::element_blank(),
     panel.grid = ggplot2::element_blank(),
