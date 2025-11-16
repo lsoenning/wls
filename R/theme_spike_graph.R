@@ -1,6 +1,6 @@
 #' ggplot2 theme for spike graph with nested facets
 #'
-#' ggplot2 theme for drawing nested facets with the {ggh4x} package, in part based on the code provided by Teun van den Brand on stackoverflow.com (https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups).
+#' ggplot2 theme for drawing nested facets with the \{ggh4x\} package, in part based on the code provided by Teun van den Brand on stackoverflow.com (https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups).
 #'
 #' @export
 theme_spike_graph <- function(){
@@ -11,6 +11,22 @@ theme_spike_graph <- function(){
     panel.border = ggplot2::element_rect(color = "grey"),
     axis.ticks.x = ggplot2::element_blank(),
     axis.text.x = ggplot2::element_blank(),
+    panel.grid = ggplot2::element_blank(),
+    legend.position = "none",
+    strip.clip = "off"
+  )
+}
+
+#' ggplot2 theme for nested facets
+#'
+#' ggplot2 theme for drawing nested facets with the \{ggh4x\} package, in part based on the code provided by Teun van den Brand on stackoverflow.com (https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups).
+#'
+#' @export
+theme_nested_facets <- function(){
+
+  ggplot2::theme(
+    strip.background = ggplot2::element_rect(color = "grey", fill = "white"),
+    panel.border = ggplot2::element_rect(color = "grey"),
     panel.grid = ggplot2::element_blank(),
     legend.position = "none",
     strip.clip = "off"

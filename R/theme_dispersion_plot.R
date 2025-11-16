@@ -1,6 +1,6 @@
 #' ggplot2 theme for dispersion plot with nested facets
 #'
-#' ggplot2 theme for drawing nested facets with the {ggh4x} package, in part based on the code provided by Teun van den Brand on stackoverflow.com (https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups).
+#' ggplot2 theme for drawing nested facets with the \{ggh4x\} package, in part based on the code provided by Teun van den Brand on stackoverflow.com (https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups).
 #'
 #' @export
 theme_dispersion_plot <- function(){
