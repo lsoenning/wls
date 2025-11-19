@@ -98,3 +98,42 @@
 #' }
 #' @source Braun, Albert. 1982. Studien zu Syntax und Morphologie der Steigerungsformen im Englischen. Bern: Franke.
 "data_adj_gradation"
+
+
+#' Frequency data for actually in ICE-GB (macro genres)
+#'
+#' Data on the number of occurrences of \emph{actually} in each of the 12 macro genres represented in ICE-GB (Nelson et al. 2002).
+#'
+#' @format ## `actually_macro_genre`
+#' A data frame with 12 rows and 3 columns:
+#' \describe{
+#'   \item{macro_genre}{12 macro genres (e.g. "private_dialogues", "student_writing", "reportage"); ordered factor}
+#'   \item{actually}{The number of times \emph{actually} occurs in the macro genre}
+#'   \item{word_count}{The size of the macros genre, expressed as the totel number of (word and nonword) tokens}
+#' }
+#' Nelson, Gerald, Sean Wallis, and Bas Aarts. 2002. \emph{Exploring Natural Language: Working with the British Component of the International Corpus of English}. John Benjamins.
+"actually_macro_genre"
+
+
+
+#' Frequency data for actually in ICE-GB (text files)
+#'
+#' Data on the number of occurrences of \emph{actually} in each of the 500 text files in ICE-GB (Nelson et al. 2002).
+#'
+#' @format ## `actually_texts`
+#' A data frame with 500 rows and 8 columns:
+#' \describe{
+#'   \item{text_file}{Standardized name of the text file (e.g. "s1a-001", "w1b-008", "w2d-018")}
+#'   \item{actually}{The number of times \emph{actually} occurs in the text file}
+#'   \item{word_count}{The length of the text file, expressed as the number of (word and nonword) tokens}
+#'   \item{mode}{Mode of production ("spoken" vs. "written")}
+#'   \item{text_category}{4 higher-level text categories ("dialogues", "monologues", "non-printed", "printed"); ordered factor}
+#'   \item{macro_genre}{12 macro genres (e.g. "private_dialogues", "student_writing", "reportage"); ordered factor}
+#'   \item{genre}{32 genres (e.g. "phonecalls", "unscripted_speeches", "novels_short_stories"); ordered factor}
+#'   \item{genre_short}{Short label for the genre (see Schützler 2023: 228); ordered factor}
+#'   }
+#' Nelson, Gerald, Sean Wallis, and Bas Aarts. 2002. \emph{Exploring Natural Language: Working with the British Component of the International Corpus of English}. John Benjamins.
+#'
+#' #' Schützler, Ole. 2023. \emph{Concessive constructions in varieties of English}. Language Science Press. \doi{doi:10.5281/zenodo.8375010}
+#'
+"actually_texts"
